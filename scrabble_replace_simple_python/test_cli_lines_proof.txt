@@ -1,0 +1,4 @@
+python3 scrabble_replace.py
+All assumptions are valid.
+Enter a sentence: asfsadgw rdsgw sdrfgzdfgsdfhsdhjsd hsdhrsbdfvasvberd 
+New Sentence: asthorin rappe supermathematically hypercriticalness
